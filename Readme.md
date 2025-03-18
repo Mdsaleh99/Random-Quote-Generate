@@ -32,7 +32,7 @@ A simple web application that fetches and displays a random quote. Users can gen
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click here to try the app](https://)**
+🔗 **[Click here to try the app](https://random-quote-generate01.vercel.app/)**
 
 ---
 
